@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://Deyvid4900.github.io/MoviePlace",
+  "homepage": "https://Deyvid4900.github.io/projetoApi_filmes",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
